@@ -50,11 +50,12 @@ Frontend Knowledge Structure
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
-            - [Fiddler](http://www.fiddler2.com/fiddler2/)
+            - [Fiddler](http://www.telerik.com/fiddler)
             - [Chrome Dev Tools](https://developer.chrome.com/devtools)
             - [Dragonfly](http://www.opera.com/dragonfly/)
             - [DebugBar](http://www.debugbar.com/)
             - [Venkman](https://developer.mozilla.org/en-US/docs/Venkman)
+            - [Charles](https://www.charlesproxy.com/)
         - 版本管理
             - [Git](http://git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)
             - [Github](https://github.com/)/[GitLab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)/[TeamForge](http://www.collab.net/products/teamforge)
@@ -136,6 +137,9 @@ Frontend Knowledge Structure
             - [Yeoman](http://yeoman.io/)
             - [FIS](http://fis.baidu.com/)
             - [Mod](https://github.com/modulejs/modjs)
+        - ES6＋ 转换器
+            - [Traceur](https://github.com/google/traceur-compiler)
+            - [Babel](https://babeljs.io/)
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
@@ -243,6 +247,8 @@ Frontend Knowledge Structure
 - [基于MVC的JavaScript Web富应用开发](http://book.douban.com/subject/10733304/)★★★
 
 ### 性能实践
+- [高性能网站建设指南](https://book.douban.com/subject/3132277/)★
+- [高性能网站建设进阶指南](https://book.douban.com/subject/4719162/)★★
 - [Web性能实践日志](http://book.douban.com/subject/25891125/)★★★
 - [Web性能权威指南](http://book.douban.com/subject/25856314/)★★★
 
